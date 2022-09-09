@@ -13,3 +13,29 @@ To move forward, we needed to test the application to assess how large a populat
 App stores mark Georadio as a potentially dangerous application due to location data sharing. The same application stores, however, enable applications frequently used by Open Source Intelligence without drawing attention to cybersecurity threats. The difference between these – most of all, fitness and navigation – application and Georadio is that, while the former hide the consent to data sharing with third parties, Georadio detects location data and equipment identifier by openly indicating the purpose of data collection (see Privacy Policy, available only in Hungarian). The application is safe to use and can be removed from your mobile phone quickly and entirely with one click at the end of the test.
 
 At the webmap the results of the three-day test is presented. 
+
+We detected a total of 20,448 different Bluetoot devices (BTs) during the 3 days by 13 active sensor devices.
+A BT device - not trivially the detector itself - furthest detections: 151 km, 112 minutes apart, a Forerunner 35.
+
+Most BT detections of 1 user within 1 second:
+- Westo, 67 BT, Astoria
+- deneb, 56 BT, Kelenföld railway station
+- Pokatylov, 52 BT, Westend Shopping Center
+- Matei, 39 BT, Erzsébet körút, Stifler Pool
+
+Most BT detections of 1 user within 1 minute (all different BTs):
+- Pokatylov, 201 BT, Westend Shopping Center
+- Westo, 142 BT, Astoria
+
+There were 10 BT devices detected by 3 users and 213 BT devices detected by 2 users.
+Example: 
+Pokatylov detected the 'OPPO A15s mobile phone' device at the southern corner of the Westend, with an accuracy of 23m, then approx. 3 hours later, the same device was detected by Kocsmárosé, close to the crossing in front of Nyugati, with an accuracy of 25m. 
+
+Among the 213 BT devices detected by 2 users:
+- 63 unknown BT names,
+- 37 Lime scooters,
+- 35 TVs (at least those that are easily recognizable),
+- 17 TIER scooters,
+- 3 KKSLOCK (MOL Bubi),
+- 3 Huawei,
+- 2 MIBOX4, etc.
